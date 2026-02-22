@@ -19,7 +19,7 @@ author_profile: true
 [//]: # (**Biography**)
 ### <span style="color:royalBlue;font-weight:bold">Biography</span>
 
-I am a final-year Ph.D. student at Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I am also working with Prof. [Tian He](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en&oi=ao), Prof. [Yunhuai Liu](http://www.yunhuai.net/Yunhuai.htm) and Prof. [Shuai Wang](https://cse.seu.edu.cn/2019/0107/c23024a257643/page.htm) in research. I obtained my master degree from Central South University, under the supervision of Prof. [Jiawei Huang](https://faculty.csu.edu.cn/jiaweihuang/zh_CN/index/27174/list/index.htm).
+I am a fourth-year Ph.D. student at Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I obtained my master degree from Southeast University, under the supervision of Prof. [Shuai Wang](https://cse.seu.edu.cn/2019/0107/c23024a257643/page.htm).
 
 
 My research is concentrated in the areas of **Human-Centric Cyber-Physical Systems** and **Spatial-Temporal Data Science**.
@@ -32,14 +32,6 @@ My publications can also be found at [Google Scholar](https://scholar.google.com
 
 > **Research Intern in JD Logistics    &nbsp;&nbsp;&nbsp;       Summer 2021**
  * Led a fair courier workload measurement project, which has been **deployed nationwide**
- 
-> **Research Intern in JD Logistics    &nbsp;&nbsp;&nbsp;       Summer 2022**
- * Led a relay-based courier scheduling project in last-mile logistics, which has been **deployed in more than 200 delivery stations**, serving about 1 million orders a day
- * Led an order transportation optimization project, which has been **deployed in one major city in China**
-
-> **Research Intern in JD Logistics    &nbsp;&nbsp;&nbsp;       Summer 2023**
- * Led a courier workload measurement project to achieve fair last-mile task assignments
- * Led a cooperation-based last-mile delivery project to improve courier efficiency, which has been **deployed in more than 200 delivery stations**
 
 > **Research Intern in JD Logistics    &nbsp;&nbsp;&nbsp;       Summer 2024**
  * Led a heterogeneous task assignment system to optimize courier efficiency in conducting various tasks
