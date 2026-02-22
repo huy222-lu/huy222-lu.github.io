@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Wenjun Lyu
-description: "Wenjun Lyu"
-name: Wenjun Lyu
+title: Hua Yan
+description: "Hua Yan"
+name: Hua Yan
 logo: "/assets/images/32905629.ico"
 minimal_mistakes_skin: contrast
 search: true
@@ -54,19 +54,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Wenjun Lyu"
+  name   : "Hua Yan"
   avatar : "/assets/images/wenjun.jpg"
-  bio    : "Ph.D. Candidate, Rutgers University"
+  bio    : "Ph.D. Student, Lehigh University"
   links:
     - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=_LMyrNQAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=K-OCWVMAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/wenjun-lyu-992a50175/"
 footer:
   links:
     - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=_LMyrNQAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=K-OCWVMAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/wenjun-lyu-992a50175/"
