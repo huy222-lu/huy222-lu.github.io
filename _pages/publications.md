@@ -12,6 +12,8 @@ author_profile: true
 ### 2026
 <span style="color:black;font-weight:bold">[IMWUT'26]</span> *Large Language Model-guided Semantic Alignment for Human Activity Recognition* <br>**Hua Yan**, Heng Tan, Yi Ding, Pengfei Zhou, Vinod Namboodiri, Yu Yang<br>
 
+<span style="color:black;font-weight:bold">[IMWUT'26]</span> *Bridging Policy and Real-World Dynamics: LLM-Augmented Rebalancing for Shared Micromobility Systems* <br>Heng Tan, **Hua Yan**, Yu Yang<br>
+
 <span style="color:black;font-weight:bold">[Under review]</span> *Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation* <br>**Hua Yan**, Heng Tan, Yingxue Zhang, Yu Yang<br>
 
 <span style="color:black;font-weight:bold">[Under review]</span> *Guiding LLM-Based Human Mobility Simulation with Mobility Measures from Shared Data* <br>**Hua Yan**, Heng Tan, Yu Yang<br>
