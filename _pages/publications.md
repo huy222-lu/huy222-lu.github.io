@@ -42,6 +42,7 @@ author_profile: true
 ### 2023 
 
 <span style="color:black;font-weight:bold">[ICA3PP'23]</span> *Large-scale trajectory prediction via relationship-aware adaptive hierarchical graph learning* <br>**Hua Yan**, Yu Yang<br>
+
 <span style="color:black;font-weight:bold">[CIKM'23]</span> *Identifying regional driving risks via transductive cross-city transfer learning under negative transfer* <br>
 **Hua Yan**, Hao Wang, Desheng Zhang, Yu Yang<br>
 
@@ -53,14 +54,14 @@ author_profile: true
 ### 2022
 
 <span style="color:black;font-weight:bold">[ICDE'22]</span> *o2-siterec: Store site recommendation under the o2o model via multi-graph attention networks* <br>
-Hua Yan, Shuai Wang, Yu Yang, Baoshen Guo, Tian He, Desheng Zhang<br>
+**Hua Yan**, Shuai Wang, Yu Yang, Baoshen Guo, Tian He, Desheng Zhang<br>
 
 
 ### 2021 
 
 
 <span style="color:black;font-weight:bold">[MSN'21]</span> *Multi-source data-driven route prediction for instant delivery* <br>
-Zhiyuan Zhou, Xiaolei Zhou, Yao Lu, Hua Yan, Baoshen Guo, Shuai Wang<br>
+Zhiyuan Zhou, Xiaolei Zhou, Yao Lu, **Hua Yan**, Baoshen Guo, Shuai Wang<br>
 
 
 
