@@ -25,19 +25,8 @@ author_profile: true
 ### Reviewer and TPC
 
 * Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-* IEEE/ACM Transactions on Networking (ToN)
-* IEEE Transactions on Mobile Computing (TMC)
-* ACM Transactions on Sensor Networks (ToSN)
-* IEEE Transactions on Multimedia (TMM)
-* IEEE Transactions on Intelligent Transportation Systems (TITS)
-* IEEE Transactions on Network Science and Engineering (TNSE)
-* IEEE Transactions on Industrial Informatics (TII)
-* IEEE Internet of Things Journal
-* Computer Networks
-* ACM MM 2025, IJCAI 2025, SIGKDD 2025, AAAI 2025, IJCNN 2025, ACM WSDM 2025, Eurosys AEC 2025, IEEE ICASSP 2025
-* IEEE ICASSP 2024, Sensys AEC 2024
-* IEEE ICA3PP workshop 2023
-* IEEE Smart City 2022
+* SIGKDD 2026
+
 
 
 
