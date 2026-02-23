@@ -10,19 +10,23 @@ author_profile: true
 
 ---
 ### 2026
-<span style="color:black;font-weight:bold">[IMWUT'26]</span> *Large Language Model-guided Semantic Alignment for Human Activity Recognition* <br>Hua Yan, Heng Tan, Yi Ding, Pengfei Zhou, Vinod Namboodiri, Yu Yang<br>
+<span style="color:black;font-weight:bold">[IMWUT'26]</span> *Large Language Model-guided Semantic Alignment for Human Activity Recognition* <br>**Hua Yan**, Heng Tan, Yi Ding, Pengfei Zhou, Vinod Namboodiri, Yu Yang<br>
+
+<span style="color:black;font-weight:bold">[Under review]</span> *Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation* <br>**Hua Yan**, Heng Tan, Yingxue Zhang, Yu Yang<br>
+
+<span style="color:black;font-weight:bold">[Under review]</span> *Guiding LLM-Based Human Mobility Simulation with Mobility Measures from Shared Data* <br>**Hua Yan**, Heng Tan, Yu Yang<br>
 
 
 ### 2025
-<span style="color:black;font-weight:bold">[BuildSys'25]</span> *Small Fleet, Big Impact: Enhancing Shared Micromobility Efficiency through Minimal Autonomous Vehicle Deployment* <br>Heng Tan, Hua Yan, Lucas Yang, Yu Yang<br>
+<span style="color:black;font-weight:bold">[BuildSys'25]</span> *Small Fleet, Big Impact: Enhancing Shared Micromobility Efficiency through Minimal Autonomous Vehicle Deployment* <br>Heng Tan, **Hua Yan**, Lucas Yang, Yu Yang<br>
 
 
-<span style="color:black;font-weight:bold">[SIGSPATIAL'25]</span> *REALISM: A Regulatory Framework for Coordinated Scheduling in Multi-Operator Shared Micromobility Services* <br>Heng Tan, Hua Yan, Yukun Yuan, Guang Wang, Yu Yang<br>
+<span style="color:black;font-weight:bold">[SIGSPATIAL'25]</span> *REALISM: A Regulatory Framework for Coordinated Scheduling in Multi-Operator Shared Micromobility Services* <br>Heng Tan, **Hua Yan**, Yukun Yuan, Guang Wang, Yu Yang<br>
 
-<span style="color:black;font-weight:bold">[SIGSPATIAL-SISCC'25]</span> *Spatially Aware Mixture of Propagation for Air Quality Prediction* <br>Xiyang Hu, Hua Yan, Yu Yang<br>
+<span style="color:black;font-weight:bold">[SIGSPATIAL-SISCC'25]</span> *Spatially Aware Mixture of Propagation for Air Quality Prediction* <br>Xiyang Hu, **Hua Yan**, Yu Yang<br>
 
 
-<span style="color:black;font-weight:bold">[Under review]</span> *Llm-guided reinforcement learning: Addressing training bottlenecks through policy modulation* <br>Heng Tan, Hua Yan, Yu Yang<br>
+<span style="color:black;font-weight:bold">[Under review]</span> *Llm-guided reinforcement learning: Addressing training bottlenecks through policy modulation* <br>Heng Tan, **Hua Yan**, Yu Yang<br>
 
 
 ### 2024
