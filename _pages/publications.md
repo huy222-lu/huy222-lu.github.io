@@ -6,16 +6,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Selected Conference Publications**
+**Conference Publications**
 
 ---
+### 2026
+<span style="color:black;font-weight:bold">[IMWUT'26]</span> *Large Language Model-guided Semantic Alignment for Human Activity Recognition* <br>Hua Yan, Heng Tan, Yi Ding, Pengfei Zhou, Vinod Namboodiri, Yu Yang<br>
+
+
 ### 2025
-<span style="color:black;font-weight:bold">[WWW'25]</span> *InCo: Exploring Inter-Trip Cooperation for Efficient Last-mile Delivery* <br>**Wenjun Lyu**, Shuxin Zhong, Guang Yang, Haotian Wang, Yi Ding, Shuai Wang, Yunhuai Liu, Tian He and Desheng Zhang<br>
+<span style="color:black;font-weight:bold">[BuildSys'25]</span> *Small Fleet, Big Impact: Enhancing Shared Micromobility Efficiency through Minimal Autonomous Vehicle Deployment* <br>Heng Tan, Hua Yan, Lucas Yang, Yu Yang<br>
 
-<span style="color:black;font-weight:bold">[AAAI'25]</span> *AdaService: Adaptive Multi-faceted Service Capabilities Co-Estimation for Nationwide Terminal Stations in Logistics* <br>Shuxin Zhong, Kimberly Liu, **Wenjun Lyu**, Haotian Wang, Guang Wang, Yunhuai Liu, Tian He, Yu Yang, Desheng Zhang<br>
 
-<span style="color:black;font-weight:bold">[KDD'25]</span> *Scalable Area Difficulty Assessment with Knowledge-enhanced AI for Nationwide Logistics Systems* <br>Zejun Xie, **Wenjun Lyu**, Yiwei Song, Haotian Wang, Guang Yang, Yunhuai Liu, Tian He, Desheng Zhang, Guang Wang<br>
+<span style="color:black;font-weight:bold">[SIGSPATIAL'25]</span> *REALISM: A Regulatory Framework for Coordinated Scheduling in Multi-Operator Shared Micromobility Services* <br>Heng Tan, Hua Yan, Yukun Yuan, Guang Wang, Yu Yang<br>
 
+<span style="color:black;font-weight:bold">[SIGSPATIAL-SISCC'25]</span> *Spatially Aware Mixture of Propagation for Air Quality Prediction* <br>Xiyang Hu, Hua Yan, Yu Yang<br>
+
+
+<span style="color:black;font-weight:bold">[Under review]</span> *Llm-guided reinforcement learning: Addressing training bottlenecks through policy modulation* <br>Heng Tan, Hua Yan, Yu Yang<br>
 
 
 ### 2024
